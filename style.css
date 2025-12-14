@@ -1,0 +1,181 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f1f5f9;
+  min-height: 100vh;
+  text-align: center;
+  padding: 25px;
+}
+
+
+.main-header {
+  background:
+    linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
+    url("c:\Users\Acer\Desktop\shopping.webp"); /* veya online resim linki */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 70px 20px;
+  border-radius: 18px;
+  margin-bottom: 40px;
+}
+
+
+.main-header h1 {
+  color: #ffffff;
+  font-size: 44px;
+  letter-spacing: 3px;
+  margin-bottom: 12px;
+  text-shadow: 0 4px 12px rgba(0,0,0,0.8);
+}
+
+
+.divider {
+  width: 140px;
+  height: 4px;
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  margin: 18px auto;
+  border-radius: 6px;
+}
+
+.main-header p {
+  color: #e5f2ff;
+  font-size: 18px;
+}
+
+
+h2 {
+  color: #1e293b;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #475569;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+
+.card {
+  background: #ffffff;
+  width: 300px;
+  margin: 30px auto;
+  padding: 22px;
+  border-radius: 18px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.25);
+}
+
+
+.card img {
+  width: 100%;
+  border-radius: 14px;
+  margin-bottom: 15px;
+  
+}
+
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  font-size: 15px;
+}
+
+
+button {
+  background: linear-gradient(to right, #1e90ff, #0072ff);
+  color: white;
+  border: none;
+  padding: 12px;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+button:hover {
+  background: linear-gradient(to right, #0072ff, #1e90ff);
+  transform: scale(1.04);
+}
+
+
+label {
+  color: #334155;
+  font-size: 15px;
+}
+
+
+footer {
+  margin-top: 45px;
+  padding: 18px;
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  color: white;
+  border-radius: 14px;
+  font-size: 14px;
+}
+
+button {
+  background: linear-gradient(to right, #1e90ff, #0072ff);
+  color: white;
+  border: none;
+  padding: 12px;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+button:hover {
+  background: linear-gradient(to right, #0072ff, #1e90ff);
+  transform: scale(1.03);
+}
+
+
+label {
+  color: #333;
+  font-size: 15px;
+}
+
+
+footer {
+  margin-top: 45px;
+  padding: 18px;
+  
+  background: 
+    linear-gradient(to right, rgba(30,60,114,0.7), rgba(42, 152, 66, 0.7)),
+    url("https://example.com/resim.jpg"); 
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  border-radius: 14px;
+  font-size: 14px;
+}
+.main-header {
+  background-image: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.unsplash.com/photo-1558788353-f76d92427f16");
+    background-size: cover;
+     background-position: center;
+     padding: 800px 20px;
+     border-radius: 15px;
+    margin-bottom: 30px;
+}

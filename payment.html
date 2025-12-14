@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ödeme Sayfası | Caner PetShop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Ödeme Sayfası</h1>
+    <p>Lütfen ödeme yönteminizi seçin</p>
+
+    <div class="card">
+
+        <!-- BAKİYE -->
+        <h2>Bakiye Bilgisi</h2>
+        <input type="number" placeholder="Bakiye giriniz" style="padding:10px; width:90%; margin-bottom:15px;">
+
+        <!-- ÖDEME YÖNTEMİ -->
+        <h2>Ödeme Yöntemi</h2>
+
+        <label>
+            <input type="radio" name="odeme"> Kredi Kartı
+        </label>
+        <br><br>
+
+        <label>
+            <input type="radio" name="odeme"> Kapıda Ödeme
+        </label>
+
+        <br><br>
+
+        <!-- ÖDEME BUTONU -->
+        <button onclick="odemeTamamla()">Ödemeyi Tamamla</button>
+
+    </div>
+
+    <footer>
+        <p>📞 0555 555 55 55 | 🌐 www.canerpetshop.com</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
