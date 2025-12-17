@@ -1,12 +1,4 @@
 
-![Uploading Ekran görüntüsü 2025-12-17 180322.png…]() 
-![Uploading Ekran görüntüsü 2025-12-17 181011.png…]()
-
-
-
-
-
-
 
 Proje Açık
 laması:
