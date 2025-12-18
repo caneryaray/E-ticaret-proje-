@@ -1,7 +1,8 @@
 
-<img width="1890" height="933" alt="Ekran görüntüsü 2025-12-17 180322" src="https://github.com/user-attachments/assets/bf223f30-33f3-4480-86ba-ffa7671dbc78" /><img width="383" height="341" alt="Ekran görüntüsü 2025-12-17 181031" src="https://github.com/user-attachments/assets/87b44c94-e331-4955-98f3-751e12ebde60" />
 
-<img width="465" height="870" alt="Ekran görüntüsü 2025-12-17 181011" src="https://github.com/user-attachments/assets/3ff60c58-1544-4420-a08e-65b55c28947a" /><img width="415" height="457" alt="Ekran görüntüsü 2025-12-17 181059" src="https://github.com/user-attachments/assets/ae29d2e7-cd3e-441b-bea6-f65f27016c1d" />
+<img width="1890" height="933" alt="Ekran görüntüsü 2025-12-17 180322" src="https://github.com/user-attachments/assets/fb5196c8-68a4-41ab-8958-29b15320e643" /><img width="411" height="460" alt="Ekran görüntüsü 2025-12-17 180434" src="https://github.com/user-attachments/assets/ee74b88c-a504-425f-9d3a-ff37c0cc4464" /><img width="465" height="870" alt="Ekran görüntüsü 2025-12-17 181011" src="https://github.com/user-attachments/assets/e4187e02-75c6-40cf-a09f-493fc7a8bb44" /><img width="415" height="457" alt="Ekran görüntüsü 2025-12-17 181059" src="https://github.com/user-attachments/assets/bd099382-fb0f-499b-8823-084074f23254" />
+
+
 
 
 Proje Açık
