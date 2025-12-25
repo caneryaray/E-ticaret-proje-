@@ -1,5 +1,4 @@
 
-![Uploading caner petShop.png…]()
 
 
 
