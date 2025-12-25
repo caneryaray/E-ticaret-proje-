@@ -1,4 +1,5 @@
 
+<img width="1024" height="1536" alt="caner petShop" src="https://github.com/user-attachments/assets/97a862ce-5103-4682-b89e-362bda427f59" />
 
 
 
